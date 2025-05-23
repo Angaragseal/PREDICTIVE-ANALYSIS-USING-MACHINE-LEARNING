@@ -59,7 +59,12 @@ This project successfully demonstrates the practical use of machine learning to 
 
 ##Output
 
-
+![Image](https://github.com/user-attachments/assets/7cda205a-1030-452d-b0c0-fa4a5e9c34c8)
+![Image](https://github.com/user-attachments/assets/441a40a1-c0dd-4596-9b7d-0a8509ead4b3)
+![Image](https://github.com/user-attachments/assets/5b08daa4-e050-4f9c-83d6-bba500dd2560)
+![Image](https://github.com/user-attachments/assets/112c7424-e1b1-4810-a5e2-dc9a9a974986)
+![Image](https://github.com/user-attachments/assets/ec8ad05c-c789-47fd-8339-d9e94b068a90)
+![Image](https://github.com/user-attachments/assets/7c2fca46-7281-400d-9788-25deaf43c2fb)
 
 ---
 

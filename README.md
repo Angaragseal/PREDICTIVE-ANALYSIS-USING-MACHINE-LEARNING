@@ -57,7 +57,10 @@ These plots are displayed side-by-side for clear and concise visualization of th
 
 This project successfully demonstrates the practical use of machine learning to support breast cancer diagnosis, emphasizing the importance of feature selection, model comparison, and thorough evaluation. The methodology and code provide a solid foundation for similar classification tasks in healthcare and other domains, highlighting how data-driven approaches can enhance decision-making processes.
 
+---
+
 ##Output
+
 
 ![Image](https://github.com/user-attachments/assets/7cda205a-1030-452d-b0c0-fa4a5e9c34c8)
 ![Image](https://github.com/user-attachments/assets/441a40a1-c0dd-4596-9b7d-0a8509ead4b3)
